@@ -1,0 +1,1 @@
+console.log("Im also a new js file");
